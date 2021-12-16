@@ -160,7 +160,7 @@ export default class DataService {
               progress: 50,
             },
           ],
-          other shit: 'Plant watering, Pourover Coffee, Mycology, Pharmaceuticals, Entheogens',
+          othershit: 'Plant watering, Pourover Coffee, Mycology, Pharmaceuticals, Entheogens',
         },
       },
       {
