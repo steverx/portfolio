@@ -1,4 +1,10 @@
+curl -sL https://firebase.tools | bash
 
+firebase login --no-localhost
+
+yarn
+
+yarn build
 
 ## Credits
 * Website was built with [React](https://github.com/facebook/react)
