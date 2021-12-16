@@ -60,7 +60,7 @@ export default class DataService {
                 'Learned a shit ton from really smart people',
                 'Got really good at excel, contracts and drug stuff',
                 'Discovered coorporate life is not for me',
-                'Peaced the fuck out. CEO asked me to stay. I told him he couldn't afford to keep me, lol.',
+                'Peaced the fuck out.',
               ],
             },
           ],
