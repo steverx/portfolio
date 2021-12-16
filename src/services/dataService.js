@@ -10,8 +10,8 @@ export default class DataService {
         content: {
           paragraphs: [
             "Hi! I’m Steven Rhodes, AKA Steve Rex. This is my personal site where I’ll be keeping track of different projects and musings in business, art and culture.",
-            "Currently, I’m enjoying expanding my thinking about what’s possible with Web3. This includes spending 95% of my waking hours in Solidity and the other 5% in Discord. I’m here for the !vibes.",
-            'Previously, I was an GPU miner for Ethereum and ZCash. One time I bought dark web entheogens using bitcoin that’s now worth tens of millions of today’s dollars. Inflation, yay!',
+            "Currently I’m enjoying expanding my thinking about what’s possible with Web3. This includes spending 95% of my waking hours in Solidity and the other 5% in Discord. Here for the !vibes. Don't know how commas work.",
+            'IN a previous life I was an GPU miner for Ethereum and ZCash. One time swim bought dark web entheogens using bitcoin that’s now worth tens of millions of today’s dollars. Inflation, yay!',
             'I own an IRL b2b software and supply chain optimization business. Working on a stealth Web3 consumer health startup.',
           ],
         },
