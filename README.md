@@ -6,5 +6,4 @@
 * Winamp player in web [Webamp](https://github.com/captbaritone/webamp)
 * Fork of [insafkhamzin.com](https://insafkhamzin.com/)
 
-## Preview
-![Screenshot](https://user-images.githubusercontent.com/27154217/83787409-bd86fb80-a661-11ea-9a21-93a732967b07.png)
+
