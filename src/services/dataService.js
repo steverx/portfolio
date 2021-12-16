@@ -54,7 +54,7 @@ export default class DataService {
             {
               jobTitle: 'Bullshit Artist',
               company: 'Fortune 100',
-              location: ''Merica',
+              location: 'Merica',
               period: 'MAY 2010 – May 2017',
               accomplishments: [
                 'Learned a shit ton from really smart people',
