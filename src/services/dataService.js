@@ -9,10 +9,10 @@ export default class DataService {
         icon: 'info_bubble',
         content: {
           paragraphs: [
-            "What's the point of this anyway? ",
-            "I guess this is where I tip things",
-            'The main technology I have been using is C# .NET. But a few years ago I fell in love with Node.js and I use it for most of my side projects. Moreover, I am in a good relationship with React (this website runs on React btw) and fascinated by Big Data and Blockchain.',
-            'When I am not in front of the computer, I usually do yoga, drink a specialty coffee and go on hikes (lake Yoho in Alberta is my favorite trail so far).',
+            "Hi! I’m Steven Rhodes, AKA Steve Rex. This is my personal site where I’ll be keeping track of different projects and musings in business, art and culture.",
+            "Currently, I’m enjoying expanding my thinking about what’s possible with Web3. This includes spending 95% of my waking hours in Solidity and the other 5% in Discord. I’m here for the !vibes.",
+            'Previously, I was an GPU miner for Ethereum and ZCash. One time I bought dark web entheogens using bitcoin that’s now worth tens of millions of today’s dollars. Inflation, yay!',
+            'I own an IRL b2b software and supply chain optimization business. Working on a stealth Web3 consumer health startup.',
           ],
         },
       },
@@ -22,45 +22,45 @@ export default class DataService {
         icon: 'notepad_2',
         content: {
           resumeLink:
-            'https://docs.google.com/document/d/1c_fPwOf4zo-vkSWJiCkSyiH2SZECb6JSeOSmgniaeQY/export?format=pdf',
+            'https://drive.google.com/file/d/1N0wxkXMOcJFfxvhmwQsMTn18I6QYEcbZ/view?usp=sharing',
           workExperience: [
             {
-              jobTitle: 'Software Developer',
-              company: 'Ceridian - Dayforce Wallet',
-              location: 'Toronto',
-              period: 'AUG 2020 – PRESENT',
+              jobTitle: 'Dad',
+              company: 'Rhodes Fam',
+              location: 'Turkey Hill',
+              period: 'SEP 2018 – PRESENT',
               accomplishments: [
-                'Building a unique on-demand pay application',
-                'Developed a gateway from scratch between the app and the bank for Canadian users',
-                'Brought Canadian part of application to general availability in 6 months',
-                'Increased the performance of existing app by applying code and database design best practices',
-                'Expanded the overall project’s unit tests coverage from 30% to 80%. Started applying integration tests',
-                'Technologies used: C#, JS, ASP.NET, SQL Server, Redis, Kafka, Azure',
+                'Useless birth partner',
+                'Changed first 100 diapers, then 0',
+                'Clown, cook, story teller, snuggler',
+                'So fun we did it again',
+                'Never known more joy',
+                'Having fun every day :)',
               ],
             },
             {
-              jobTitle: 'Software Developer',
-              company: 'Webmoney',
-              location: 'Russia',
-              period: 'MAY 2017 – AUG 2019',
+              jobTitle: 'Founder Entrepreneur',
+              company: 'Myco',
+              location: 'All Over the USA',
+              period: 'MAY 2017 – Now',
               accomplishments: [
-                'Developed and maintained financial technology applications',
-                'Planned and executed a full software development life cycle (SDLC) for each assigned project',
-                'Successfully integrated virtual and prepaid card issuance which brought to the company more than 100000 users and increased revenue by 5%',
-                'Planned tasks for 5 developers for future sprints according to Scrum methodology',
-                'Technologies used: C#, ASP.NET Core, SQL Server, React.js, RESTful Web services, Docker, Redis',
+                'Learned how to sell using story telling',
+                'Took way longer than I thought it would',
+                'Way more fulfilling than I imagined',
+                'Reached $400M GMV',
+                'Love our clients',
               ],
             },
             {
-              jobTitle: '.NET Developer',
-              company: 'Soft Universe Labs',
-              location: 'Russia',
-              period: 'MAY 2016 – MAR 2017',
+              jobTitle: 'Bullshit Artist',
+              company: 'Fortune 100',
+              location: ''Merica',
+              period: 'MAY 2010 – May 2017',
               accomplishments: [
-                'Developed CRM systems for different small-medium businesses',
-                'Reviewed applications in progress of development to ensure corporate development standards',
-                'Successfully planned, developed and tested modules for agricultural CRM which are used by 80% of farmers in Kazan, Russia',
-                'Technologies used: C#, ASP.NET, SQL Server, JQuery, Semantic UI',
+                'Learned a shit ton from really smart people',
+                'Got really good at excel, contracts and drug stuff',
+                'Discovered coorporate life is not for me',
+                'Peaced the fuck out. CEO asked me to stay. I told him he couldn't afford to keep me, lol.',
               ],
             },
           ],
@@ -87,85 +87,29 @@ export default class DataService {
         content: {
           projects: [
             {
-              title: 'Dayforce Wallet',
+              title: 'Story On Chain',
               description:
-                'Dayforce Wallet is a modern way to pay employees that gives them access to their earned wages on demand. With Dayforce Wallet, you can collect your pay when you want, even the day of your shift.',
-              myRole:
-                'building a gateway between the app and the Canadian bank. Applying best code and database design practices to achieve high performance. Planning and implementing unit/integration tests.',
-              techStack:
-                'C#, ASP.NET Core, SQL Server, JS, Azure, Redis, Kafka',
-              url: 'https://www.dayforcewallet.com/',
+                'Story On Chain is an eternal user-generated NFT on the ethereum blockchain benefiting the World Literacy Foundation. We are forking NounsDAO to create a daily auction where the winning bidder writes the next line of the story on their NFT.',
+              myRole: 'creator, solidity developer',
+              url: 'https://www.twitter.com/steverx',
             },
             {
-              title: 'Cryptowealth',
+              title: 'bootjack',
               description:
-                'Cryptowealth is an information site that tells the user how to invest in crypto with the lowest risks and the highest profit. You can choose the amount that you are ready to allocate per month, the level of risk - and you will be shown how much and what coin invest to. The whole purpose of this project is to show people that crypto is although an aggressive investment tool, but quite profitable if you have a clear strategy and a diversified portfolio.',
-              myRole: 'Co-Creator',
-              techStack: 'React',
-              url: 'https://cryptowealth.app/',
-              repo: 'https://github.com/dsych/crypto-advisor',
-            },
+                'Bootjack is a "loot"-style loadout card NFT for the Chain Runners Universe. We optimized a loot fork to reduce gas fees by 70% and incorporated the first cipher key gated NFT mint experience, fully created and stored on the ethereum blockchain.',
+              myRole: 'co-creator, solidity developer',
+              techStack: 'React, Solidity',
+              url: 'https://bootjack.run/',
+              contract: 'https://etherscan.io/address/0xa138cc52e9baa400c1105debb42904afd9cbfb59#code',
+            },                   
             {
-              title: 'Cards.Webmoney',
+              title: 'Stealth Consumer Web3',
               description:
-                "Cards.Webmoney is a system for issuing and managing prepaid and virtual payment cards. Users can issue a payment card within few minutes, after that the card will be delivered on an address or provided right away if it's virtual. Cards.Webmoney is integrated with different payment processing systems such as WaveCrest, PaySpark, IntraPay.",
-              myRole:
-                "creating gateways between Cards.Webmoney and processing systems, developing and testing new features in the user's dashboard, maintaining and refactoring the existing functionality.",
-              techStack: 'C#, ASP.NET, SQL Server, JavaScript, TeamCity CI',
-              url: 'https://cards.web.money/en',
-            },
-            {
-              title: 'Guarantee.Money',
-              description:
-                'Guarantee.money is an escrow system that helps people to safely make a deal on the internet. The service acts as a trusted party in the transaction between the seller and the buyer. During the transaction period, the service expects confirmation from both participants about the completion or violation of conditions.',
-              myRole:
-                "designing, developing and testing core project's functions. Assigning tasks and planning future sprints for other developers. Integrating different payment methods such as payment cards, e-wallets, crypto.",
-              techStack:
-                'C#, ASP.NET, React/Redux, SQL Server, Dapper ORM, TeamCity CI',
-              url: 'https://guarantee.money/',
-            },
-            {
-              title: 'Platron.Pro',
-              description:
-                'Platron.Pro is a mass payout service for organizations. It provides a full range of direct gateways to integrated money transfer systems, credit organizations, mobile operators, etc.',
-              myRole: 'Integrating mass payouts to mobile operators.',
-              techStack: 'C#, ASP.NET, SQL Server, Entity Framework',
-              url: 'https://www.platron.pro',
-            },
-            {
-              title: 'JustOne Game',
-              description:
-                'JustOne is a word guessing game that is essentially a clone of the real JustOne game with the same ruleset and also has login/signup and real-time video chat features.',
-              techStack: 'MERN WebRTC Socket.io',
-              myRole:
-                'Implementing the Peer To Peer video conferencing using WebRTC and Socket.io. Building React UI components. Planning the gaming engine.',
-              url: 'https://play-just-one.herokuapp.com/',
-              repo: 'https://github.com/hatchways/team-coconut',
-            },
-            {
-              title: 'App Factory',
-              description:
-                "This project is supposed to be a constructor for building iOS/Android apps. Unfortunately, it didn't make it to MVP but you still could check the git repo. Be careful, it's not the prettiest code I've written...",
-              techStack: 'MERN',
-              myRole: 'Co-Creator. Implementing backend part.',
-              repo: 'https://github.com/InsafKhamzin/app-builder',
-            },
-            {
-              title: 'CryptoBot',
-              description:
-                'CryptoBot is a Telegram chatbot that provides updated info about every existing cryptocurrency.',
+                'Web3 powered startup to empower normies to reclaim value from a multi-billion dollar industry',
               techStack: 'Node.js, Serverless, AWS S3, Telegram API',
-              myRole: 'Creator',
-              url: 'https://t.me/crypto_info1_bot',
-              repo: 'https://github.com/InsafKhamzin/crypto-info-bot',
-            },
-            {
-              title: 'My Portfolio Site',
-              description:
-                'My personal website in old-school Windows95 design.',
-              techStack: 'React, GitHub pages',
-              repo: 'https://github.com/InsafKhamzin/portfolio',
-            },
+              myRole: 'founder',
+              url: 'https://www.twitter.com/steverx',
+            }
           ],
         },
       },
