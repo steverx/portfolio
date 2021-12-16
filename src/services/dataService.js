@@ -9,8 +9,8 @@ export default class DataService {
         icon: 'info_bubble',
         content: {
           paragraphs: [
-            "Hi! I am a Software Developer based in Toronto. For the last several years I've been working as a Full Stack developer in big FinTech companies.",
-            "I believe that friendly and respectful communication within a team is key to the company's success. With my experience in software development and database design, I think I would be a valuable asset to your project.",
+            "What's the point of this anyway? ",
+            "I guess this is where I tip things",
             'The main technology I have been using is C# .NET. But a few years ago I fell in love with Node.js and I use it for most of my side projects. Moreover, I am in a good relationship with React (this website runs on React btw) and fascinated by Big Data and Blockchain.',
             'When I am not in front of the computer, I usually do yoga, drink a specialty coffee and go on hikes (lake Yoho in Alberta is my favorite trail so far).',
           ],
@@ -176,47 +176,47 @@ export default class DataService {
         content: {
           hard: [
             {
-              name: 'C# .NET',
+              name: 'Napping',
               progress: 100,
             },
             {
-              name: 'SQL Server',
+              name: 'Cooking Chicken',
               progress: 100,
             },
             {
-              name: 'React/Redux',
+              name: 'Memes',
               progress: 90,
             },
             {
-              name: 'Node.js',
+              name: 'Shit Posting',
               progress: 90,
             },
             {
-              name: 'Docker',
+              name: 'Apeing',
               progress: 90,
             },
             {
-              name: 'MongoDB',
+              name: 'Degeneracy',
               progress: 80,
             },
             {
-              name: 'Typescript',
-              progress: 70,
+              name: 'Accumulatooor',
+              progress: 20,
             },
             {
-              name: 'AWS/Azure',
-              progress: 70,
+              name: 'Web 3 Hacking',
+              progress: 20,
             },
             {
-              name: 'Kubernetes',
+              name: 'Solidity',
               progress: 60,
             },
             {
-              name: 'Hadoop',
+              name: 'Creative Production',
               progress: 50,
             },
           ],
-          soft: 'Analytical thinking, Teamwork, Creative Problem solving, Mangement, Leadership, Entrepreneurship',
+          other shit: 'Plant watering, Pourover Coffee, Mycology, Pharmaceuticals, Entheogens',
         },
       },
       {
@@ -225,29 +225,29 @@ export default class DataService {
         icon: 'inetcfg_2301',
         content: {
           emailText:
-            'If you want to hire me or invite to a project, just email me on ',
-          email: 'khamzin.insaf@gmail.com',
+            'Please, do not email me. Ever.',
+          email: 'swrhodes@me.com',
           socialText: 'Or you can reach me out through social media:',
           social: [
             {
               name: 'FaLinkedin',
-              link: 'https://www.linkedin.com/in/insaf-khamzin-915237129/',
+              link: 'https://www.linkedin.com/in/steverx/',
             },
             {
               name: 'FaGithub',
-              link: 'https://github.com/InsafKhamzin',
+              link: 'https://github.com/steverx',
             },
             {
               name: 'FaInstagram',
-              link: 'https://www.instagram.com/insafikus/',
+              link: 'https://www.instagram.com/steverhodes/',
             },
             {
               name: 'FaTwitter',
-              link: 'https://twitter.com/InsafKhamzin',
+              link: 'https://twitter.com/steverx',
             },
             {
               name: 'FaMedium',
-              link: 'https://medium.com/@hamzin730insaf',
+              link: 'https://medium.com/@steverx',
             },
           ],
         },
